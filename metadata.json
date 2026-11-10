@@ -1,0 +1,6 @@
+{
+  "name": "Compliance Compass",
+  "description": "Enterprise Governance, Risk & Compliance (GRC) SaaS platform with interactive risk heatmaps, incident management, audit analytics, and controls tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
